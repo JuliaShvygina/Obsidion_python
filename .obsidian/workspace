@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "677d69237f89f462",
+    "type": "split",
+    "children": [
+      {
+        "id": "0333b3d133526383",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "467fb886f4cfe236",
+    "type": "split",
+    "children": [
+      {
+        "id": "830f6bbb96631037",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3995e3bab63600da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3139b2167e060733",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 165
+  },
+  "right": {
+    "id": "f34549e4d16aa217",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6f88cffb5adcb2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9069b2a925e9a685",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 167,
+    "collapsed": true
+  },
+  "active": "0333b3d133526383",
+  "lastOpenFiles": [
+    "Словарь.md",
+    "Список.md",
+    "Draft.md",
+    "Регулярные выражения.md",
+    "Переменные.md",
+    "ООП.md",
+    "Множество.md",
+    "Кортеж.md",
+    "Декоратор.md",
+    "Selenium.md"
+  ]
+}
