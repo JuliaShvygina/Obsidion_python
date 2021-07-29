@@ -7,8 +7,11 @@
         "id": "0333b3d133526383",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Тесты.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Тесты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +88,15 @@
   },
   "active": "0333b3d133526383",
   "lastOpenFiles": [
+    "Тесты.md",
+    "Draft.md",
+    "Python.md",
     "Словарь.md",
     "Список.md",
-    "Draft.md",
     "Регулярные выражения.md",
     "Переменные.md",
     "ООП.md",
     "Множество.md",
-    "Кортеж.md",
-    "Декоратор.md",
-    "Selenium.md"
+    "Кортеж.md"
   ]
 }
