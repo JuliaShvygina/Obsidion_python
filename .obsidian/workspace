@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Тесты.md",
+            "file": "Python.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Тесты.md",
+                "file": "Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "0333b3d133526383",
   "lastOpenFiles": [
-    "Тесты.md",
-    "Draft.md",
     "Python.md",
+    "Draft.md",
+    "Тесты.md",
     "Словарь.md",
     "Список.md",
     "Регулярные выражения.md",
