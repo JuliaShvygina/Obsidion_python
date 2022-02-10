@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Python.md",
+            "file": "Индексы, групповые индексы, транзакции.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 165
+    "width": 195
   },
   "right": {
     "id": "f34549e4d16aa217",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python.md",
+                "file": "Индексы, групповые индексы, транзакции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "0333b3d133526383",
   "lastOpenFiles": [
-    "Python.md",
+    "Индексы, групповые индексы, транзакции.md",
+    "Итераторы и генераторы.md",
+    "Популярные сервисы.md",
+    "БД.md",
     "Draft.md",
-    "Тесты.md",
-    "Словарь.md",
-    "Список.md",
-    "Регулярные выражения.md",
-    "Переменные.md",
-    "ООП.md",
-    "Множество.md",
-    "Кортеж.md"
+    "docker, слои docker, docker-compose.md",
+    "Pasted image 20220209122519.png",
+    "Юнит и интеграционные тесты.md",
+    "Параллельность - потоки, процессы, асинхронность.md",
+    "Стек и куча.md"
   ]
 }
