@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Индексы, групповые индексы, транзакции.md",
+            "file": "Oneliner.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Индексы, групповые индексы, транзакции.md",
+                "file": "Oneliner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "0333b3d133526383",
   "lastOpenFiles": [
+    "Oneliner.md",
+    "Конструкция с try.md",
+    "Многопоточность.md",
+    "Декоратор с аргументами.md",
+    "БД.md",
+    "Декоратор.md",
+    "Функция высшего порядка.md",
     "Индексы, групповые индексы, транзакции.md",
     "Итераторы и генераторы.md",
-    "Популярные сервисы.md",
-    "БД.md",
-    "Draft.md",
-    "docker, слои docker, docker-compose.md",
-    "Pasted image 20220209122519.png",
-    "Юнит и интеграционные тесты.md",
-    "Параллельность - потоки, процессы, асинхронность.md",
-    "Стек и куча.md"
+    "Популярные сервисы.md"
   ]
 }
