@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Oneliner.md",
+            "file": "Python на низком уровне.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oneliner.md",
+                "file": "Python на низком уровне.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "0333b3d133526383",
   "lastOpenFiles": [
-    "Oneliner.md",
+    "Python на низком уровне.md",
+    "Стек и куча.md",
+    "Python.md",
     "Конструкция с try.md",
+    "Oneliner.md",
     "Многопоточность.md",
     "Декоратор с аргументами.md",
     "БД.md",
     "Декоратор.md",
-    "Функция высшего порядка.md",
-    "Индексы, групповые индексы, транзакции.md",
-    "Итераторы и генераторы.md",
-    "Популярные сервисы.md"
+    "Функция высшего порядка.md"
   ]
 }
