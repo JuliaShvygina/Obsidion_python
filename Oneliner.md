@@ -1,5 +1,5 @@
 ---
-aliases: []
+aliases: [oneliners, lambda, filter, map, reduce]
 ---
 ### Python Lambda Functions
 
