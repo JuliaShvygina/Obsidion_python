@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Множество.md",
-            "mode": "source"
+            "file": "Cassandra.md",
+            "mode": "preview"
           }
         }
       }
@@ -40,9 +40,9 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Множество.md",
+                "file": "Cassandra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "0333b3d133526383",
   "lastOpenFiles": [
-    "Множество.md",
-    "Многопоточность.md",
-    "Кортеж.md",
-    "Конструкция с try.md",
-    "Итерируемый объект.md",
-    "Итераторы и генераторы.md",
-    "Исключения.md",
-    "Декоратор с аргументами.md",
-    "Без названия.md",
-    "ООП.md"
+    "Cassandra.md",
+    "Kubernetes (not done).md",
+    "Draft.md",
+    "docker, слои docker, docker-compose.md",
+    "Докер.md",
+    "Индексы, групповые индексы, транзакции.md",
+    "Профилирование.md",
+    "GitLab CI.md",
+    "Нагрузочное тестирование Startrack.md",
+    "Логирование.md"
   ]
 }
