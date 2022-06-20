@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0333b3d133526383",
+        "id": "fe1ea00b7d393b29",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cassandra.md",
+            "file": "Обучение/Урок 2.md",
             "mode": "preview"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 195
+    "width": 248
   },
   "right": {
     "id": "f34549e4d16aa217",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cassandra.md",
+                "file": "Обучение/Урок 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 167,
     "collapsed": true
   },
-  "active": "0333b3d133526383",
+  "active": "fe1ea00b7d393b29",
   "lastOpenFiles": [
-    "Cassandra.md",
-    "Kubernetes (not done).md",
-    "Draft.md",
-    "docker, слои docker, docker-compose.md",
-    "Докер.md",
-    "Индексы, групповые индексы, транзакции.md",
-    "Профилирование.md",
-    "GitLab CI.md",
-    "Нагрузочное тестирование Startrack.md",
-    "Логирование.md"
+    "Обучение/Урок 2.md",
+    "Обучение/Урок 3.md",
+    "Обучение/Урок 5.md",
+    "Обучение/Урок 6.md",
+    "Кортеж.md",
+    "Множество.md",
+    "Обучение/Урок 4.md",
+    "Обучение/Урок 1.md",
+    "Словарь.md",
+    "Обучение/Урок 0.md"
   ]
 }
