@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Обучение/Урок 2.md",
+            "file": "Обучение/Урок 3.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Обучение/Урок 2.md",
+                "file": "Обучение/Урок 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,10 @@
   },
   "active": "fe1ea00b7d393b29",
   "lastOpenFiles": [
-    "Обучение/Урок 2.md",
     "Обучение/Урок 3.md",
-    "Обучение/Урок 5.md",
     "Обучение/Урок 6.md",
+    "Обучение/Урок 5.md",
+    "Обучение/Урок 2.md",
     "Кортеж.md",
     "Множество.md",
     "Обучение/Урок 4.md",
