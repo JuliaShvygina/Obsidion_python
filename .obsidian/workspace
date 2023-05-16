@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Обучение/Урок 4.md",
-            "mode": "preview"
+            "file": "Нагрузочное тестирование Startrack.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Обучение/Урок 4.md",
+                "file": "Нагрузочное тестирование Startrack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "fe1ea00b7d393b29",
   "lastOpenFiles": [
+    "Обучение/Урок 5.md",
+    "Обучение/Урок 7.md",
+    "Обучение/Урок 8.md",
+    "Обучение/Урок 9.md",
+    "Обучение/Урок 10.md",
+    "Обучение/Урок 6.md",
     "Обучение/Урок 4.md",
     "Обучение/Урок 3.md",
-    "Обучение/Урок 6.md",
-    "Обучение/Урок 5.md",
     "Обучение/Урок 2.md",
-    "Кортеж.md",
-    "Множество.md",
-    "Обучение/Урок 1.md",
-    "Словарь.md",
-    "Обучение/Урок 0.md"
+    "Кортеж.md"
   ]
 }
