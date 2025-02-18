@@ -1,0 +1,1 @@
+(приватный, публичный, защищенный), static method, class method
